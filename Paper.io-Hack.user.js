@@ -11,6 +11,8 @@
 // @match        *iogames.space/*
 // @match        *titotu.io/*
 // @match        *io-games.io/*
+// @match        *://paper-io.space
+// @match        *://paper.io
 // @run-at document-idle
 // ==/UserScript==
 
