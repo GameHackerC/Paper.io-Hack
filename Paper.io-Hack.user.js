@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Paper.io ZOOM HACK - Paperio Hacks - Best Paper Cheat 2019
 // @description  Paperio Mods Features: Zoom Hack, Unlock All Skins, Change Everything, Auto Turn Bot, FPS paper-io.com
-// @namespace    iomods.org
-// @author       iomods.org
+// @namespace    GameHackerC
+// @author       GameHackerC
 // @version      1.1
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @updateURL    https://iomods.org/mods/paperio.user.js
